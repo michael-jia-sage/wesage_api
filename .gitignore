@@ -1,0 +1,19 @@
+.DS_Store
+.idea/*
+.redcar/*
+.rvmrc
+.sass-cache
+.yardoc/*
+# ignore pesky text editor backups
+*~
+*.swp
+*.swo
+#ignore commission junction generated files
+cj_*
+
+# Ignore bundler config
+/.bundle
+
+# Ignore all log and temp files.
+/log/*.log
+tmp/*
